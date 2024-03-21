@@ -2,6 +2,8 @@
 The EX5/7 parameter sysex bug made some difficulties in making the panel, but it is actually in case of this hardware pretty useless sysex-implementation after all and new implementation has even removed parameter request totally from it's documentation.
 
 "YAMAHA A4000 SAMPLER MANIPULATOR.bpanelz" is now at current final state and wont likely to be edited soon again.
+	- HINT: RAISE GLOBAL MIDI DELAY FROM 1 ms to about(experiment) 100 ms for longer Midi Sample Dumps to succeed without bulk error.
+	- 24 kbyte dump succeeded for me at 100 ms at least. 
 
 "V-Verb Pro FULL.bpanelz" is also a work in process as it only receives few first engine A model modulators fully from the sysex-dump.
  - On 2024 20th April removed file handling triggering bug.
