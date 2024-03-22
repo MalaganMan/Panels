@@ -5,7 +5,7 @@ The EX5/7 parameter sysex bug made some difficulties in making the panel, but it
 - Update 2024 22th April: Fixed 
 
 "V-Verb Pro FULL.bpanelz" is also a work in process as it only receives few first engine A model modulators fully from the sysex-dump.
- - On 2024 20th April FIXED file handling bugs.
+ - On 2024 20th April FIXED file handling bugs and removed PC hanging os.time function.
  
 "Korg Z1 Editor.bpanelz" is still greatly work in process stage and does NOT have all the modulators, but file loading saving and storing functions fully.
  
