@@ -2,7 +2,7 @@
 The EX5/7 parameter sysex bug made some difficulties in making the panel, but it is actually in case of this hardware pretty useless sysex-implementation after all and new implementation has even removed parameter request totally from it's documentation.
 
 "YAMAHA A4000 SAMPLER MANIPULATOR.bpanelz" is now at current final state and wont likely to be edited soon again.
-- Update 2024 22th April: Fixed 
+- Update 2024 22th April 04:25 GMT: FIXED file handling bugs and removed PC hanging os.time function.
 
 "V-Verb Pro FULL.bpanelz" is also a work in process as it only receives few first engine A model modulators fully from the sysex-dump.
  - On 2024 20th April FIXED file handling bugs and removed PC hanging os.time function.
