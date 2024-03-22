@@ -5,6 +5,7 @@ The EX5/7 parameter sysex bug made some difficulties in making the panel, but it
 - Update 2024 22th April 04:25 GMT: FIXED file handling bugs and removed PC hanging os.time function.
 - NOTE!: After experimenting with midi dumps you must send all data in this order back to A4000: 
 "wavedata" - "sample bulk" - "sample bank dump" - "Program dump".
+- I gave up trying to calculate the right checksum so only unmodified midi dumps will succeed hence the checksum is incorrect otherwise and will fail the dumps.
 
 "V-Verb Pro FULL.bpanelz" is also a work in process as it only receives few first engine A model modulators fully from the sysex-dump.
  - On 2024 20th April FIXED file handling bugs and removed PC hanging os.time function.
