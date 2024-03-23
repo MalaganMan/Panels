@@ -9,6 +9,8 @@ The EX5/7 parameter sysex bug made some difficulties in making the panel, but it
 - UPDATE 23th April 2024: Added more features of which most usefull is the objectlist request.
 - UPDATE 23th April 2024 #2: Uploaded YAMAHA A5000 panel version with correct "family device code" ASCII "5" = 35h = 53 incomparison A4000 ASCII "4" = 34h = 52.
 
+- WARNING! SAMPLE DUMPS TO AX000 CAN EMPTY WHOLE RAM MEMORY FROM DEVICE EASILY. SO DOODLE EASY.
+
 "V-Verb Pro FULL.bpanelz" is also a work in process as it only receives few first engine A model modulators fully from the sysex-dump.
  - On 2024 20th April FIXED file handling bugs and removed PC hanging os.time function.
  
