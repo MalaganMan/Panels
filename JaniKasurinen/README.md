@@ -12,6 +12,8 @@ The EX5/7 parameter sysex bug made some difficulties in making the panel, but it
 - UPDATE 27th April 2024: Major bug fixes and separated object types into own list from dump.
 - UPDATE 29th April 2024: Removed Program list. Major bug fixes.
 	- File Load Cancelin actually triggered earlier buffers to be send and written to the text boxes.
+	
+- Hopfully last update for a looog time: Object lists now injects names from list strings to name boxes for selecting samples and samplebanks easier.
 
 - WARNING! SAMPLE DUMPS TO AX000 CAN EMPTY WHOLE RAM MEMORY FROM DEVICE EASILY. SO DOODLE EASY.
 	- UPDATE: Limited "wavedata" to 1 packet to avoid corruption.
