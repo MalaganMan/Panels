@@ -10,11 +10,14 @@ The EX5/7 parameter sysex bug made some difficulties in making the panel, but it
 - UPDATE 23th April 2024 #2: Uploaded YAMAHA A5000 panel version with correct "family device code" ASCII "5" = 35h = 53 incomparison A4000 ASCII "4" = 34h = 52.
 - UPDATE 26th April 2024: Bug fixes on MIDI ON/OFF. Object list bug fixing. Object list is now at least quite functional.
 - UPDATE 27th April 2024: Major bug fixes and separated object types into own list from dump.
+- UPDATE 29th April 2024: Removed Program list. Major bug fixes.
+	- File Load Cancelin actually triggered earlier buffers to be send and written to the text boxes.
 
 - WARNING! SAMPLE DUMPS TO AX000 CAN EMPTY WHOLE RAM MEMORY FROM DEVICE EASILY. SO DOODLE EASY.
+	- UPDATE: Limited "wavedata" to 1 packet to avoid corruption.
 
 "V-Verb Pro FULL.bpanelz" is also a work in process as it only receives few first engine A model modulators fully from the sysex-dump.
- - On 2024 20th April FIXED file handling bugs and removed PC hanging os.time function.
+- On 2024 20th April FIXED file handling bugs and removed PC hanging os.time function.
  
 "Korg Z1 Editor.bpanelz" is still greatly work in process stage and does NOT have all the modulators, but file loading saving and storing functions fully.
  
