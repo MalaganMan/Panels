@@ -1,5 +1,6 @@
 "EX5R Switches.bpanelz" is propably at stage of final version, but I might in future add some editing functions there.
 The EX5/7 parameter sysex bug made some difficulties in making the panel, but it is actually in case of this hardware pretty useless sysex-implementation after all and new implementation has even removed parameter request totally from it's documentation.
+- UPDATE: Added one more save button which also after saving, automatically advances to the next patch.
 
 "YAMAHA A4000 SAMPLER MANIPULATOR.bpanelz" is now at current final state and wont likely to be edited soon again.
 - Update 2024 22th April 04:25 GMT: FIXED file handling bugs and removed PC hanging os.time function.
