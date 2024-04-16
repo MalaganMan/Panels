@@ -31,4 +31,8 @@ The EX5/7 parameter sysex bug made some difficulties in making the panel, but it
 - Korg Prophecy and Z1 panels are done from basis of this panel: https://ctrlr.org/710/ done by person with signature "jms" on CTRLR.ORG
 - Huge thank for the initial work done back in 2013 =)!
 
+"Waldorf Blofeld Patch Renamer.bpanelz"
+- A tiny panel for quick renaming of Waldorf Blofeld pacthes in edit buffer.
+- Changed name must be saved by saving the pacth.
+
 PS: Any PayPal donations to www.paypal.com/paypalme/janikasurinen are dearly appreciated =)
