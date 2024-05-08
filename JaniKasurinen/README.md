@@ -31,6 +31,7 @@ The EX5/7 parameter sysex bug made some difficulties in making the panel, but it
 "Korg Prophecy Editor.bpanelz" has surely still many bugs and only few modulators are now fetched from the program bulk dump, but likewise to Z1 panel file handling and sysex-dumping works fully already.
 - 2024 May 7th: Minor formatting and more modulators fetched from patch midi dump.
 - 2024 May 7th: Modulation OSC fixed. Formatting. Few more modulators called from patch dump.
+- 2024 May 8th: Bug fixes. More modulators from patch dump. More saving and loading functionality, arp patterns, global and program writes to current and slot separated.
 
 - Korg Prophecy and Z1 panels are done from basis of this panel: https://ctrlr.org/710/ done by person with signature "jms" on CTRLR.ORG
 - A huge thank for the initial work done back in 2013 =)!
