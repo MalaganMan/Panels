@@ -37,6 +37,7 @@ The EX5/7 parameter sysex bug made some difficulties in making the panel, but it
 - 2024 May 8th: Bug fixes. More modulators from patch dump. More saving and loading functionality, arp patterns, global and program writes to current and slot separated.
 - A MAJOR BUG IN VST VERSION IN CAKEWALK: THE PANEL WILL REQUEST DUMP AND WRITE ON THE SLOT(21 OR LAST EDITED, DO NOT KNOW FOR SURE).
 - MAKE BACKUPS, IF USING THIS PANEL!
+- 2024 May 10th: Remedied the unintented write problem with a write protect switch, which might also help user prone accidental writings.
 
 Korg Prophecy and Z1 panels are done from basis of this panel: https://ctrlr.org/710/ done by person with signature "jms" on CTRLR.ORG
 A huge thank for the initial work done back in 2013 =)!
