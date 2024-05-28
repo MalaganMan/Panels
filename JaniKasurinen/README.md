@@ -29,6 +29,7 @@ The EX5/7 parameter sysex bug made some difficulties in making the panel, but it
 - BACKUP ALL YOUR Z1 VOICES AND SETTINGS BEFORE USING THIS PANEL!
 - 2024 May 6th: Bug fixed in "Load Patch to Edit Buffer"'s function which caused it to send patch from midi buffer even if no file was loaded = canceled the loading.
 - VPM added to OSC1 and OSC2
+- UPDATE 2024 MAY 28th: Buggy last version remade and fixed minor older bugs.
  
 "Korg Prophecy Editor.bpanelz" has surely still many bugs and only few modulators are now fetched from the program bulk dump, but likewise to Z1 panel file handling and sysex-dumping works fully already.
 - BACKUP ALL YOUR PROPHECY VOICES AND SETTINGS BEFORE USING THIS PANEL!
