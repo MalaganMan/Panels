@@ -14,7 +14,7 @@ The EX5/7 parameter sysex bug made some difficulties in making the panel, but it
 - UPDATE 29th April 2024: Removed Program list. Major bug fixes.
 	- File Load Cancelin actually triggered earlier buffers to be send and written to the text boxes.
 	
-- Hopfully last update for a looog time: Object lists now injects names from list strings to name boxes for selecting samples and samplebanks easier.
+- Hopefully last update for a looog time: Object lists now injects names from list strings to name boxes for selecting samples and samplebanks easier.
 - Last piece of advice: Edit the "Program Select" -modulator to send program change CC (number 32 seems to work) and allow program change in YAMAHA AX000 and you will always have the matching "Program Number" and "Program Name". - Update: That is done.
 - ;-) "Kippis vuoan mulkut! Mie lähren tästä huilaamaan!"
 
@@ -30,6 +30,7 @@ The EX5/7 parameter sysex bug made some difficulties in making the panel, but it
 - 2024 May 6th: Bug fixed in "Load Patch to Edit Buffer"'s function which caused it to send patch from midi buffer even if no file was loaded = canceled the loading.
 - VPM added to OSC1 and OSC2
 - UPDATE 2024 MAY 28th: Buggy last version remade and fixed minor older bugs.
+- UPDATE 2024 JUNE 3th: Oscillator modulators until "Sync" done.
  
 "Korg Prophecy Editor.bpanelz" has surely still many bugs and only few modulators are now fetched from the program bulk dump, but likewise to Z1 panel file handling and sysex-dumping works fully already.
 - BACKUP ALL YOUR PROPHECY VOICES AND SETTINGS BEFORE USING THIS PANEL!
