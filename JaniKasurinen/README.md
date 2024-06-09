@@ -34,7 +34,8 @@ The EX5/7 parameter sysex bug made some difficulties in making the panel, but it
 - UPDATE 2024 JUNE 4th: Organ Model added.
 - UPDATE 2024 JUNE 5th: Electric Piano and Brass Model added.
 - UPDATE 2024 JUNE 6th: FIXED ALL BYTE VALUES IN MODULATORS WHICH WERE TOTALLY MISSING.
- 
+- UPDATE 2024 JUNE 9th: All Oscillator modulators done one directional.
+
 "Korg Prophecy Editor.bpanelz" has surely still many bugs and only few modulators are now fetched from the program bulk dump, but likewise to Z1 panel file handling and sysex-dumping works fully already.
 - BACKUP ALL YOUR PROPHECY VOICES AND SETTINGS BEFORE USING THIS PANEL!
 - 2024 May 6th: Bug fixed in "Load Patch to Edit Buffer"'s function which caused it to send patch from midi buffer even if no file was loaded = canceled the loading.
