@@ -41,6 +41,7 @@ The EX5/7 parameter sysex bug made some difficulties in making the panel, but it
 This is probably pretty final stage for this editor for now.
 - Was not =) UPDATE 2024 JUNE 27th: Grouped the functions and removed the unneccery ones. Fixed some bugs. Multi and Midi sysex are still missing correct sizes and thus not function fully.
 - UPDATE 2024 JUNE 28th: Bug fixing and new 'Dump byte calculator' added to aid in understanding the bulk dump.
+- 2024 10th July: Sysex bug fix and removed unfuntional Mono SW.
 
 "Korg Prophecy Editor.bpanelz" has surely still many bugs and only few modulators are now fetched from the program bulk dump, but likewise to Z1 panel file handling and sysex-dumping works fully already.
 - BACKUP ALL YOUR PROPHECY VOICES AND SETTINGS BEFORE USING THIS PANEL!
@@ -51,7 +52,6 @@ This is probably pretty final stage for this editor for now.
 - A MAJOR BUG IN VST VERSION IN CAKEWALK: THE PANEL WILL REQUEST DUMP AND WRITE ON THE SLOT(21 OR LAST EDITED, DO NOT KNOW FOR SURE).
 - MAKE BACKUPS, IF USING THIS PANEL!
 - 2024 May 10th: Remedied the unintented write problem with a write protect switch, which might also help user prone accidental writings.
-- 2024 10th July: Sysex bug fix and removed unfuntional Mono SW.
 
 Korg Prophecy and Z1 panels are done from basis of this panel: https://ctrlr.org/710/ done by person with signature "jms" on CTRLR.ORG
 A huge thank for the initial work done back in 2013 =)!
