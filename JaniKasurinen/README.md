@@ -52,6 +52,7 @@ This is probably pretty final stage for this editor for now.
 - A MAJOR BUG IN VST VERSION IN CAKEWALK: THE PANEL WILL REQUEST DUMP AND WRITE ON THE SLOT(21 OR LAST EDITED, DO NOT KNOW FOR SURE).
 - MAKE BACKUPS, IF USING THIS PANEL!
 - 2024 May 10th: Remedied the unintented write problem with a write protect switch, which might also help user prone accidental writings.
+- 2024 July 14th: All existing parameters on panel should now get updated with patch dumps.
 
 Korg Prophecy and Z1 panels are done from basis of this panel: https://ctrlr.org/710/ done by person with signature "jms" on CTRLR.ORG
 A huge thank for the initial work done back in 2013 =)!
