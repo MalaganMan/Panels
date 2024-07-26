@@ -43,6 +43,7 @@ This is probably pretty final stage for this editor for now.
 - UPDATE 2024 JUNE 28th: Bug fixing and new 'Dump byte calculator' added to aid in understanding the bulk dump.
 - 2024 10th July: Sysex bug fix and removed unfuntional Mono SW.
 - 2024 17th July: Performance Editor added.
+- 2024 July 26th: Arpeggio Editor added, minor updates and bug fixes. Last page of arp this not linked to notes.
  
 "Korg Prophecy Editor.bpanelz" has surely still many bugs and only few modulators are now fetched from the program bulk dump, but likewise to Z1 panel file handling and sysex-dumping works fully already.
 - BACKUP ALL YOUR PROPHECY VOICES AND SETTINGS BEFORE USING THIS PANEL!
@@ -56,6 +57,7 @@ This is probably pretty final stage for this editor for now.
 - 2024 July 14th: All existing parameters on panel should now get updated with patch dumps.
 - 2024 July 15th: Bug fixes and some Arpeggio and CC controls added.
 - 2024 July 18th: Arpeggio steps editor added.
+- 2024 July 26th: Minor updates.
 
 Korg Prophecy and Z1 panels are done from basis of this panel: https://ctrlr.org/710/ done by person with signature "jms" on CTRLR.ORG
 A huge thank for the initial work done back in 2013 =)!
