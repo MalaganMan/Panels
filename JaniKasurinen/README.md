@@ -68,5 +68,6 @@ A huge thank for the initial work done back in 2013 =)!
 - Changed name must be saved by saving the pacth.
 
 "MIDI Box SID panel for anyone else who might still use this old PIC and version 1
+- Tryed to rationalize the panel, so that others can use it too =)
 
 PS: Any PayPal donations to www.paypal.com/paypalme/janikasurinen are dearly appreciated =)
