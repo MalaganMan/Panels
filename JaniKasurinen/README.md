@@ -44,7 +44,8 @@ This is probably pretty final stage for this editor for now.
 - 2024 10th July: Sysex bug fix and removed unfuntional Mono SW.
 - 2024 17th July: Performance Editor added.
 - 2024 July 26th: Arpeggio Editor added, minor updates and bug fixes. Last page of arp this not linked to notes.
- 
+- 2024 July 27th: Arpeggio Editor added, minor updates and bug fixes. All Notes linked to last arp tabs matrix.
+
 "Korg Prophecy Editor.bpanelz" has surely still many bugs and only few modulators are now fetched from the program bulk dump, but likewise to Z1 panel file handling and sysex-dumping works fully already.
 - BACKUP ALL YOUR PROPHECY VOICES AND SETTINGS BEFORE USING THIS PANEL!
 - 2024 May 6th: Bug fixed in "Load Patch to Edit Buffer"'s function which caused it to send patch from midi buffer even if no file was loaded = canceled the loading.
@@ -65,5 +66,7 @@ A huge thank for the initial work done back in 2013 =)!
 "Waldorf Blofeld Patch Renamer.bpanelz"
 - A tiny panel for quick renaming of Waldorf Blofeld pacthes in edit buffer.
 - Changed name must be saved by saving the pacth.
+
+"MIDI Box SID panel for anyone else who might still use this old PIC and version 1
 
 PS: Any PayPal donations to www.paypal.com/paypalme/janikasurinen are dearly appreciated =)
