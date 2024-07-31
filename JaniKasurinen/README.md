@@ -59,6 +59,8 @@ This is probably pretty final stage for this editor for now.
 - 2024 July 15th: Bug fixes and some Arpeggio and CC controls added.
 - 2024 July 18th: Arpeggio steps editor added.
 - 2024 July 26th: Minor updates.
+- 2024 August 1st: Major updates and propably the final version for a long time =D
+- Patch lists can now be read from bank dumps and all the patches seen at once.
 
 Korg Prophecy and Z1 panels are done from basis of this panel: https://ctrlr.org/710/ done by person with signature "jms" on CTRLR.ORG
 A huge thank for the initial work done back in 2013 =)!
