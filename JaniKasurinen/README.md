@@ -45,7 +45,8 @@ This is probably pretty final stage for this editor for now.
 - 2024 17th July: Performance Editor added.
 - 2024 July 26th: Arpeggio Editor added, minor updates and bug fixes. Last page of arp this not linked to notes.
 - 2024 July 27th: Arpeggio Editor added, minor updates and bug fixes. All Notes linked to last arp tabs matrix.
-- 2024 August 8th: Arpeggio Editor fixed (not fully propbably) and some other advance done.
+- 2024 August 1st: Arpeggio Editor fixed (not fully propbably) and some other advance done.
+- 2024 August 5th: Arpeggio Editor fixed (fully propbably).
 
 "Korg Prophecy Editor.bpanelz" has surely still many bugs and only few modulators are now fetched from the program bulk dump, but likewise to Z1 panel file handling and sysex-dumping works fully already.
 - BACKUP ALL YOUR PROPHECY VOICES AND SETTINGS BEFORE USING THIS PANEL!
