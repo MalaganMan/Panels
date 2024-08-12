@@ -25,6 +25,7 @@ The EX5/7 parameter sysex bug made some difficulties in making the panel, but it
 "V-Verb Pro FULL.bpanelz" is also a work in process as it only receives few first engine A model modulators fully from the sysex-dump.
 - 2024 20th April FIXED file handling bugs and removed PC hanging os.time function.
 - 2024 11th August: Second/lower OK/TAP button fixed. Unneccery code disabled in set combich function. Setting panel midi channel should be enough for panel buttons to work.
+- 2024 12th August: NEW FEATURE: Screen dump request and display manually.
 
 "Korg Z1 Editor.bpanelz" is still greatly work in process stage and does NOT have all the modulators, but file loading saving and storing functions fully.
 - BACKUP ALL YOUR Z1 VOICES AND SETTINGS BEFORE USING THIS PANEL!
