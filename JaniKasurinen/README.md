@@ -55,6 +55,7 @@ This is probably pretty final stage for this editor for now.
 - 2024 August 5th: Arpeggio Editor fixed (fully propbably).
 - 2024 August 6th: Tested and Pitch offset % removed from Arp values.
 - 2024 August 8th: Arpeggio editors VST exports removed and all modulators in there also muted on start.
+- 2024 August 26th: Sysex hexes have been manually lined up to text boxes to avoid misalignment with numbers for columns.
 
 "Korg Prophecy Editor.bpanelz" has surely still many bugs and only few modulators are now fetched from the program bulk dump, but likewise to Z1 panel file handling and sysex-dumping works fully already.
 - BACKUP ALL YOUR PROPHECY VOICES AND SETTINGS BEFORE USING THIS PANEL!
