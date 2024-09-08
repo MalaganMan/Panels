@@ -77,6 +77,8 @@ This is probably pretty final stage for this editor for now.
 - 2024 September 6th #2: General Arpeggio parameters fetch when changing patterns. Step values still unfetched, but will do later.
 - 2024 September 7th: Final version for now. Arpeggio return values finished.
 - 2024 September 8th: Some final tweaks and function to adjust arpeggio length more easily.
+- 2024 September 8th #2: Some final tweaks and putting some VST indexes in order for modulators and especially for the arpeggio length so that I can play with it =).
+Most VST indexes are still just random numbers and not in any order.
 
 Korg Prophecy and Z1 panels are done from basis of this panel: https://ctrlr.org/710/ done by person with signature "jms" on CTRLR.ORG
 A huge thank for the initial work done back in 2013 =)!
