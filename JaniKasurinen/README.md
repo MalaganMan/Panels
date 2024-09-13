@@ -3,6 +3,7 @@ The EX5/7 parameter sysex bug made some difficulties in making the panel, but it
 - UPDATE: Added one more save button which also after saving, automatically advances to the next patch.
 - UPDATE 2024 September 12th: Added some perhaps useful commands and removed unwanted VST indexes.
 - UPDATE 2024 September 13th: Added VL Element sysex handling and saving.
+- UPDATE 2024 September 13th#2: Added VL Element sysex handling and saving functionality and made other improvements.
 
 "YAMAHA A4000 SAMPLER MANIPULATOR.bpanelz" is now at current final state and wont likely to be edited soon again.
 - Update 2024 22th April 04:25 GMT: FIXED file handling bugs and removed PC hanging os.time function.
