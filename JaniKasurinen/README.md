@@ -24,7 +24,6 @@ The EX5/7 parameter sysex bug made some difficulties in making the panel, but it
 	
 - Hopefully last update for a looog time: Object lists now injects names from list strings to name boxes for selecting samples and samplebanks easier.
 - Last piece of advice: Edit the "Program Select" -modulator to send program change CC (number 32 seems to work) and allow program change in YAMAHA AX000 and you will always have the matching "Program Number" and "Program Name". - Update: That is done.
-- ;-) "Kippis vuoan mulkut! Mie lähren tästä huilaamaan!"
 
 - WARNING! SAMPLE DUMPS TO AX000 CAN EMPTY WHOLE RAM MEMORY FROM DEVICE EASILY. SO DOODLE EASY.
 	- UPDATE: Limited "wavedata" to 1 packet to avoid corruption.
