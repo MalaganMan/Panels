@@ -8,7 +8,7 @@ The EX5/7 parameter sysex bug made some difficulties in making the panel, but it
 - UPDATE 2024 September 27th: Features added and MIDI OFF after each dump receive.
 - UPDATE 2024 September 28th: Features added.
 - UPDATE 2024 September 29th: Propably final features added. Full preset and internal voice lists created and enabled for creation with switch.
-- UPDATE 2024 September 30th: Still not able to make editable name lists for Internal Banks.
+- UPDATE 2024 September 30th: Saving and loading voice lists for Internal Banks.
 
 "YAMAHA A4000 SAMPLER MANIPULATOR.bpanelz" is now at current final state and wont likely to be edited soon again.
 - Update 2024 22th April 04:25 GMT: FIXED file handling bugs and removed PC hanging os.time function.
