@@ -9,6 +9,9 @@ The EX5/7 parameter sysex bug made some difficulties in making the panel, but it
 - UPDATE 2024 September 28th: Features added.
 - UPDATE 2024 September 29th: Propably final features added. Full preset and internal voice lists created and enabled for creation with switch.
 - UPDATE 2024 September 30th: Saving and loading voice lists for Internal Banks.
+- UPDATE 2024 October 1st: Bug fixes and styling.
+PLEASE, save your full EX5R always before using this panel. Had already done some messing with voices while sysex dumping with this panels development.
+-Device ID is still mostly fixed on 1 with most dumps, but will correct that later. Check sum editing causes some trouble there.
 
 "YAMAHA A4000 SAMPLER MANIPULATOR.bpanelz" is now at current final state and wont likely to be edited soon again.
 - Update 2024 22th April 04:25 GMT: FIXED file handling bugs and removed PC hanging os.time function.
