@@ -1,0 +1,128 @@
+001:Dr:MC505FXVoice
+002:Fx:WindStorm JK
+003:Pd:An Pad      
+004:Fx:DoorRevolver
+005:Wv:Sound       
+006:Pf:For BalladCD
+007:Pf:For BalladCD
+008:Ba:Snap Bass   
+009:Ba:Zap The FM  
+010:--:Init Voice  
+011:Ld:LoResTriangl
+012:Pd:GodInHeaven 
+013:St:Violalaa    
+014:Ld:PWM Tryout 1
+015:Ld:LoResTriang2
+016:Ld:PWM Tryout 1
+017:Ld:P5 PWM InvLP
+018:--:Init Voice  
+019:Fx:SuperFlanger
+020:Ld:Simple PWM  
+021:Ld:InvLPF PWM  
+022:St:Dry Violin  
+023:Pd:EP Pad      
+024:Fx:LFOt Strings
+025:Wv:P5Saws      
+026:St:Dry Violin  
+027:Pd:EP Pad      
+028:Sc:Gronk       
+029:Fx:WindStorm JK
+030:Br:Trumpet BCon
+031:Pd:AutoAMOB-Pad
+032:Sq:FM Line     
+033:Dr:4 by 4      
+034:Fx:4 Osc Sweep 
+035:Dr:Tech Kit FLX
+036:Dr:808Kit by JK
+037:Dr:JingleManSet
+038:Vo:Art of Love 
+039:Dr:Kick & Snare
+040:Se:Beades      
+041:Sq:BigArpeggio 
+042:Co:Big Orch    
+043:Sc:Bip         
+044:Sc:Blockhead   
+045:Sc:Blue        
+046:Gt:Brush `Em   
+047:Cp:Clickbell   
+048:Pd:Cloud Nine  
+049:Fx:Adventure   
+050:Fx:Descender   
+051:Gt:Blue Lead   
+052:Sq:DigiWorld   
+053:Fx:EX god      
+054:Sc:Torture     
+055:En:Witches     
+056:Fx:Merapi      
+057:Sc:Evil        
+058:Sq:FM Line     
+059:Br:Fanfare     
+060:Se:Faraway     
+061:Pf:DX Atacky   
+062:Fx:Flivver     
+063:Ld:Dist 5th    
+064:Fx:Flow        
+065:Pf:House Piano 
+066:Co:Foster Stack
+067:Sc:Funky Syn   
+068:Se:Genaside    
+069:Gt:Green Lead  
+070:Sq:Hard Groove 
+071:Fx:Harmonics   
+072:Et:Harptar     
+073:Pd:HealthSector
+074:Ba:House Org   
+075:Fx:Impact      
+076:Fx:So Deep     
+077:Dr:Jungle Call 
+078:Gt:Glass Strat 
+079:Pd:Lazy Sweep  
+080:Ld:LoFi        
+081:Co:LoFiJazzComb
+082:Sc:Loved Up    
+083:Gt:LoDistortion
+084:Se:Jaw Harp    
+085:Pd:Mars        
+086:Ld:Minor Vocals
+087:Pd:Mr.Evolvo   
+088:Se:Multiplies  
+089:Gt:Moore Lead  
+090:Sc:Nee-owng    
+091:Ld:Sucker      
+092:Se:Phone Wires 
+093:Sq:Popcorn     
+094:Ld:Pro Lead    
+095:Fx:Warp        
+096:Br:Pulse Matrix
+097:Gt:Six String  
+098:En:Reso Choir  
+099:Sq:Ricochet    
+100:Pf:Ring Mod EP2
+101:Pf:Suitcase3   
+102:Cp:Ring Leader 
+103:Gt:Santana     
+104:Gt:Silvertone  
+105:Cp:Reece EP    
+106:Fx:Trolddom    
+107:Ba:Snoop Bass  
+108:Fx:Soda Straw  
+109:Se:Squash      
+110:Ba:Stanley     
+111:Sc:Stonk       
+112:Sc:Strangg`e   
+113:Fx:NewAge      
+114:Sq:Sweet Chords
+115:Ld:Sweet Pulse 
+116:Pd:Swirl       
+117:Pd:Sync Pad    
+118:Ba:Synthboy    
+119:Ld:Talk        
+120:Fx:Telesa      
+121:Fx:TengJing    
+122:Se:TimeWalk    
+123:Cp:Tine Bell   
+124:Ld:Tringle     
+125:Pd:Utopia      
+126:Ba:Vega Bass   
+127:Pd:Velo City   
+128:Dr:Tech Kit FLX

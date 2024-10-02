@@ -1,0 +1,128 @@
+001:Pf:Natural Grnd
+002:Pf:Stereo Piano
+003:Pf:Brite Rock  
+004:Pf:Rocking Bose
+005:Pf:Dark Grand  
+006:Pf:For Ballads 
+007:Pf:Jazz Grand  
+008:Pf:CP80        
+009:Pf:CP80 2      
+010:Pf:Georgia     
+011:Pf:VintgCondns 
+012:Pf:Tine EP     
+013:Pf:Jazz Chorus 
+014:Pf:Soulful     
+015:Pf:Valise      
+016:Pf:Early Fusion
+017:Pf:Chorus Bell 
+018:Pf:Made in USA 
+019:Pf:Rich EP     
+020:Pf:Rhodesia    
+021:Pf:Ring Mod EP 
+022:Pf:Tornado EP  
+023:Pf:Wurli 1     
+024:Pf:Wurli 2     
+025:Pf:Dist Wurli  
+026:Pf:Glass EP    
+027:Pf:Glastick    
+028:Pf:Stone EP    
+029:Pf:Ring Road   
+030:Pf:Glass Tine  
+031:Pf:Early Tines 
+032:Pf:Vic`s Roads 
+033:Pf:Wonder Why  
+034:Pf:Wah Clav    
+035:Pf:Stereo Clav 
+036:Pf:Electro Clav
+037:Or:JazzyBallad 
+038:Or:Fullx4      
+039:Or:Augmented   
+040:Or:70`s Organ1 
+041:Or:Thank You   
+042:Or:Flutey      
+043:Or:EXseption   
+044:Or:Jazz Organ  
+045:Or:Left Manual 
+046:Or:Gospler     
+047:Or:Fast Organ  
+048:Or:English     
+049:Or:Jazz Perc   
+050:Or:Swing Bar   
+051:Or:Glass Swish 
+052:Or:Cathedral   
+053:Or:Tube Crunch 
+054:Or:Rock        
+055:Or:Hard Rock   
+056:Or:70`s Organ2 
+057:Or:Smoky Organ 
+058:Or:Fuzzier     
+059:Or:Combos      
+060:Or:Transistor  
+061:Cp:Vibe        
+062:Cp:Tubular Bell
+063:Cp:Stone Harp  
+064:Cp:WoodSequence
+065:Br:Sect        
+066:Br:Hi Sect     
+067:Br:FunkySect   
+068:Br:MyBigSectn  
+069:Br:Pop Brass   
+070:Br:Section     
+071:Br:Sforzando   
+072:Br:ClassicBrass
+073:Br:ClassicBras2
+074:Br:VeloTrbSect 
+075:Br:Smooth Brass
+076:Br:Solo Trumpet
+077:Br:Trumpet     
+078:Br:SoloTrpSwtch
+079:Br:SoftTrombone
+080:Br:Jazz Trump  
+081:Br:Big Brass   
+082:Br:Mutation    
+083:Br:Mute Trumpet
+084:Br:SoloTrombone
+085:Br:Trombone    
+086:Br:SoftFlgLead 
+087:Br:Obersync    
+088:Br:AnaBrass    
+089:Br:Stabrass    
+090:Br:Riff Brass  
+091:Br:SynthClassic
+092:Br:Matrix      
+093:Br:OberBrass   
+094:Br:Oberhorns   
+095:Br:Jupiter     
+096:Br:HotSynBrass 
+097:St:Swell String
+098:St:MellowStrngs
+099:St:EnsembleMix 
+100:St:Brite String
+101:St:Kemuri      
+102:St:StereoString
+103:St:Big Strings+
+104:St:Agitato     
+105:St:Veloci Ens  
+106:St:Tremolo     
+107:St:AnaOrch     
+108:St:Analog Str  
+109:Pd:Soft String 
+110:Pd:Peace       
+111:Pd:AN Layer    
+112:Pd:Abendstern  
+113:Pd:Pulse String
+114:Pd:Apollo      
+115:Pd:Bottled Out 
+116:Pd:Clear Bell  
+117:Pd:Dreamsphere 
+118:Pd:Tine PWM    
+119:Pd:Fifth Rise  
+120:Pd:Freeze Pad  
+121:Pd:Glass Man   
+122:Pd:Glass Choir 
+123:Pd:Hollow Pad  
+124:Pd:Luminosity  
+125:Pd:Mystery Pad 
+126:Pd:Oberweich   
+127:Pd:Orion       
+128:Pd:Pray        
