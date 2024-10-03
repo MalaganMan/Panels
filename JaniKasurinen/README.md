@@ -13,6 +13,7 @@ The EX5/7 parameter sysex bug made some difficulties in making the panel, but it
 - PLEASE, save your full EX5R always before using this panel. Had already done some messing with voices while sysex dumping with this panels development.
 - Device ID is still mostly fixed on 1 with most dumps, but will correct that later. Check sum editing causes some trouble there.
 - UPDATE 2024 October 2st: Device_ID now changed for sysex dumps and checked on receive to match. Confusion still possible with MIDI out and in channels. Uploaded text files of preset and internal banks for EX5R named Preset Bank 1/2 and Internal Bank 1/2.txt
+- UPDATE 2024 October 3st: Bug fixes and styling.
 
 "YAMAHA A4000 SAMPLER MANIPULATOR.bpanelz" is now at current final state and wont likely to be edited soon again.
 - Update 2024 22th April 04:25 GMT: FIXED file handling bugs and removed PC hanging os.time function.
