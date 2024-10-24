@@ -29,6 +29,7 @@ The EX5/7 parameter sysex bug made some difficulties in making the panel, but it
 - UPDATE 27th April 2024: Major bug fixes and separated object types into own list from dump.
 - UPDATE 29th April 2024: Removed Program list. Major bug fixes.
 	- File Load Cancelin actually triggered earlier buffers to be send and written to the text boxes.
+- UPDATE 2024 October 24th: Added new features and tried to kill bugs. Now wave and loop addresses are updated on panel and to control sliders for up to 65536 samples long samples.
 	
 - Hopefully last update for a looog time: Object lists now injects names from list strings to name boxes for selecting samples and samplebanks easier.
 - Last piece of advice: Edit the "Program Select" -modulator to send program change CC (number 32 seems to work) and allow program change in YAMAHA AX000 and you will always have the matching "Program Number" and "Program Name". - Update: That is done.
