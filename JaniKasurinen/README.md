@@ -34,7 +34,8 @@ The EX5/7 parameter sysex bug made some difficulties in making the panel, but it
 - WARNING! SAMPLE DUMPS TO AX000 CAN EMPTY WHOLE RAM MEMORY FROM DEVICE EASILY. SO DOODLE EASY.
 	- UPDATE: Limited "wavedata" to 1 packet to avoid corruption.
 - 2024 MAY 7th: Major bug fixes on midi data handling and function loops dismandled. Might have affected multiple A4000 or A5000 owners. A5000 panel I have not updated yet with same fixes. OBS!
-- UPDATE 2024 October 24th: Added new features and tried to kill bugs. Now wave and loop addresses are updated on panel and to control sliders for up to 65536 samples long samples.
+- UPDATE 2024 October 24th: Added new features and tried to kill bugs. Now wave and loop addresses are updated on the panel and to control sliders for up to 65536 samples long samples.
+- UPDATE 2024 October 25th: Added new features and tried to kill bugs. Now wave and loop addresses are updated on the panel and to control sliders for all sample lengths.
 
 "V-Verb Pro FULL.bpanelz" is also a work in process as it only receives few first engine A model modulators fully from the sysex-dump.
 - 2024 20th April FIXED file handling bugs and removed PC hanging os.time function.
