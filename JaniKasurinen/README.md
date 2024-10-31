@@ -46,6 +46,7 @@ The EX5/7 parameter sysex bug made some difficulties in making the panel, but it
 - 2024 15th August: Renaming of Engines and Combis now possible via rewriting with a new hex string at the end of the sysex dump.
 - 2024 15th August: All rotaries changed to Vertical Drag style.
 - 2024 26th August: Looping bug remedied. Received NRPN displays added. Sysex handling aids added.
+- 2024 31st October: Removed unneccery VST-indexes causing a long list of "undefined" paramaters in VST.
 
 "Korg Z1 Editor.bpanelz" is still greatly work in process stage and does NOT have all the modulators, but file loading saving and storing functions fully.
 - BACKUP ALL YOUR Z1 VOICES AND SETTINGS BEFORE USING THIS PANEL!
