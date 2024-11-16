@@ -50,6 +50,7 @@ The EX5/7 parameter sysex bug made some difficulties in making the panel, but it
 
 "V-Verb Pro Panel Only.bpanelz"
 - 2024 16th November: Simplified version utilizing mainly the V-Verb's screendump function.
+- Necessary font 'ZXSpectrumJJK.ttf' for the Screendump suplied here also.
 
 "Korg Z1 Editor.bpanelz" is still greatly work in process stage and does NOT have all the modulators, but file loading saving and storing functions fully.
 - BACKUP ALL YOUR Z1 VOICES AND SETTINGS BEFORE USING THIS PANEL!
