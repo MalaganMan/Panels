@@ -53,6 +53,7 @@ The EX5/7 parameter sysex bug made some difficulties in making the panel, but it
 - 2024 8th December#2: Return values from Edit Buffer until B Engines REVERSE REVERB algorithm. Some fixes made.
 - 2024 9th December: All parameters are now returned from Edit Buffer dump to modulators. Some fixes made.
 - 2024 9th December#2: Bug fix off wrong variable name in COMBI selection function.
+- 2024 10th December: Tweaks to requests of engines and combi returns.
 
 "V-Verb Pro Panel Only.bpanelz"
 - Necessary font 'ZXSpectrumJJK.ttf' for the Screendump suplied here also.
