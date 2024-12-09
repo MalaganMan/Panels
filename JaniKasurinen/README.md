@@ -51,6 +51,7 @@ The EX5/7 parameter sysex bug made some difficulties in making the panel, but it
 - 2024 19th November: "REQUEST EDIT BUFFER" now only triggers that and nothing else. No more asking combis or engines to get the parameters, which caused often a infinite loop. Could not make it work properly, to say.
 - 2024 8th December: Return values from Edit Buffer until B Engines Theater algorithm. Device ID bugs fixed in LUA codes. Other fixes and changes made.
 - 2024 8th December#2: Return values from Edit Buffer until B Engines REVERSE REVERB algorithm. Some fixes made.
+- 2024 9th December: All parameters are now returned from Edit Buffer dump to modulators. Some fixes made.
 
 "V-Verb Pro Panel Only.bpanelz"
 - Necessary font 'ZXSpectrumJJK.ttf' for the Screendump suplied here also.
