@@ -54,6 +54,7 @@ The EX5/7 parameter sysex bug made some difficulties in making the panel, but it
 - 2024 9th December: All parameters are now returned from Edit Buffer dump to modulators. Some fixes made.
 - 2024 9th December#2: Bug fix off wrong variable name in COMBI selection function.
 - 2024 10th December: Tweaks to requests of engines and combi returns.
+- 2024 10th December#2: More tweaks to requests of engines and combi returns. Now only combi return will change some parameters. Still figuring out the best solution for returns.
 
 "V-Verb Pro Panel Only.bpanelz"
 - Necessary font 'ZXSpectrumJJK.ttf' for the Screendump suplied here also.
