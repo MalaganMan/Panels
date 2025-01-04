@@ -18,7 +18,7 @@ The EX5/7 parameter sysex bug made some difficulties in making the panel, but it
 - UPDATE 2024 October 6th: Minor updates/finishing current modulator returns.
 - UPDATE 2024 October 8th: Oh yes, I could not at this moment figure out how to else prevent lua code from using non existent variable than making them exist with that little "Request 1st Preset" button. So please, keep that on while closing the panel or use it at the beginning always, but disable it later.
 
-"YAMAHA A4000 SAMPLER MANIPULATOR.bpanelz" is now at current final state and wont likely to be edited soon again.
+"YAMAHA A4000 SAMPLER MANIPULATOR.bpanelz & YAMAHA A5000 SAMPLER MANIPULATOR.bpanelz"
 - Update 2024 22th April 04:25 GMT: FIXED file handling bugs and removed PC hanging os.time function.
 - NOTE!: After experimenting with midi dumps you must send all data in this order back to A4000: 
 "wavedata" - "sample bulk" - "sample bank dump" - "Program dump".
@@ -36,6 +36,8 @@ The EX5/7 parameter sysex bug made some difficulties in making the panel, but it
 - 2024 MAY 7th: Major bug fixes on midi data handling and function loops dismandled. Might have affected multiple A4000 or A5000 owners. A5000 panel I have not updated yet with same fixes. OBS!
 - UPDATE 2024 October 24th: Added new features and tried to kill bugs. Now wave and loop addresses are updated on the panel and to control sliders for up to 65536 samples long samples.
 - UPDATE 2024 October 25th: Added new features and tried to kill bugs. Now wave and loop addresses are updated on the panel and to control sliders for all sample lengths.
+- UPDATE 2025 January 4th: Bug fix in loop point controls.
+- UPDATE 2025 January 4th on A5000 panel: Bug fix in loop point controls and added the same features as in A4000 panel.
 
 "V-Verb Pro FULL.bpanelz" is also a work in process as it only receives few first engine A model modulators fully from the sysex-dump.
 - 2024 20th April FIXED file handling bugs and removed PC hanging os.time function.
