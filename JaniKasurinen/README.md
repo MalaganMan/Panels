@@ -22,8 +22,9 @@ The EX5/7 parameter sysex bug made some difficulties in making the panel, but it
 - UPDATE 2024 October 4st: Managed to get also the User VL Element name list saving and loading working. When changing voice type there is still a bug that makes asking current voice dump several times necessary to get the right bank and sample to show up in the first element. No more need for extra text boxes after correcting save funtions length call for the text.
 - UPDATE 2024 October 6th: Minor updates/finishing current modulator returns.
 - UPDATE 2024 October 8th: Oh yes, I could not at this moment figure out how to else prevent lua code from using non existent variable than making them exist with that little "Request 1st Preset" button. So please, keep that on while closing the panel or use it at the beginning always, but disable it later.
-
-"YAMAHA A4000 SAMPLER MANIPULATOR.bpanelz & YAMAHA A5000 SAMPLER MANIPULATOR.bpanelz"
+- UPDATE 2025 January 23rd: Both PATCH and PERFORMANCE change main selections work now with enabling midi out ON.
+ 
+ "YAMAHA A4000 SAMPLER MANIPULATOR.bpanelz & YAMAHA A5000 SAMPLER MANIPULATOR.bpanelz"
 - Update 2024 22th April 04:25 GMT: FIXED file handling bugs and removed PC hanging os.time function.
 - NOTE!: After experimenting with midi dumps you must send all data in this order back to A4000: 
 "wavedata" - "sample bulk" - "sample bank dump" - "Program dump".
