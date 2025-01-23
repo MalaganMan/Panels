@@ -44,6 +44,7 @@ The EX5/7 parameter sysex bug made some difficulties in making the panel, but it
 - UPDATE 2024 October 25th: Added new features and tried to kill bugs. Now wave and loop addresses are updated on the panel and to control sliders for all sample lengths.
 - UPDATE 2025 January 4th: Bug fix in loop point controls.
 - UPDATE 2025 January 4th on A5000 panel: Bug fix in loop point controls and added the same features as in A4000 panel.
+- UPDATE 2025 January 23rd on A5000 panel: (Trying to) Fix bootup button pushes and lua executions.
 
 "V-Verb Pro FULL.bpanelz" is also a work in process as it only receives few first engine A model modulators fully from the sysex-dump.
 - 2024 20th April FIXED file handling bugs and removed PC hanging os.time function.
