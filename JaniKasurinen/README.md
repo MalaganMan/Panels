@@ -2,6 +2,7 @@
 - 2025 January 19th: Newly added panel for converting Roland Fantom-S/XR patches to SonicCell and vice versa.
 - 2025 January 20th: Patch listings added. No SRX-Expansion patchnames.
 - 2025 January 20th: Patch selection functions updated. SRX-Patch selections corrected.
+- 2025 April 1st: Waves are now also loaded and selected from sysex files to the converter.
 
 "EX5R Switches.bpanelz" is propably at stage of final version, but I might in future add some editing functions there.
 The EX5/7 parameter sysex bug made some difficulties in making the panel, but it is actually in case of this hardware pretty useless sysex-implementation after all and new implementation has even removed parameter request totally from it's documentation.
