@@ -101,6 +101,7 @@ This is probably pretty final stage for this editor for now.
 - 2024 August 8th: Arpeggio editors VST exports removed and all modulators in there also muted on start.
 - 2024 August 26th: Sysex hexes have been manually lined up to text boxes to avoid misalignment with numbers for columns.
 - 2024 August 27th: Added midi off switch to prevent sysex sending in start of the panel.
+- 2025 April 20th: Bug fixes and lots of visual tweaking.
 
 "Korg Prophecy Editor.bpanelz" has surely still many bugs and only few modulators are now fetched from the program bulk dump, but likewise to Z1 panel file handling and sysex-dumping works fully already.
 - BACKUP ALL YOUR PROPHECY VOICES AND SETTINGS BEFORE USING THIS PANEL!
