@@ -48,6 +48,7 @@ The EX5/7 parameter sysex bug made some difficulties in making the panel, but it
 - UPDATE 2025 January 23rd on A5000 panel: (Trying to) Fix bootup button pushes and lua executions.
 - UPDATE 2025 February 27th on A4000 panel: FX section updated with parameter names and so far until TECH MODULATION/FX3 fully adjusted values and labels (Except I believe you can not actually change some delay values so precise =D. Input/output settings also now added.
 - UPDATE 2025 March 3rd on A4000 panel: At least I had a bug which disabled LUA in my VST version. Now got it working again.
+- UPDATE 2025 April 22nd on A4000 panel: Visual tuning and minor bug fixes.
 
 "V-Verb Pro FULL.bpanelz" is also a work in process as it only receives few first engine A model modulators fully from the sysex-dump.
 - 2024 20th April FIXED file handling bugs and removed PC hanging os.time function.
