@@ -50,6 +50,7 @@ The EX5/7 parameter sysex bug made some difficulties in making the panel, but it
 - UPDATE 2025 March 3rd on A4000 panel: At least I had a bug which disabled LUA in my VST version. Now got it working again.
 - UPDATE 2025 April 22nd on A4000 panel: Visual tuning and minor bug fixes.
 - UPDATE 2025 April 24th on A4000 panel: Added "smarter" loop point control functions.
+- UPDATE 2025 April 27th on A4000 panel: Added funtionality for sample handling.
 
 "V-Verb Pro FULL.bpanelz" is also a work in process as it only receives few first engine A model modulators fully from the sysex-dump.
 - 2024 20th April FIXED file handling bugs and removed PC hanging os.time function.
