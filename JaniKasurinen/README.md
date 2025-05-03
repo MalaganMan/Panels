@@ -56,6 +56,7 @@ The EX5/7 parameter sysex bug made some difficulties in making the panel, but it
 - UPDATE 2025 April 30th on A4000 panel: Added funtionality. MAJOR BUG FIXED IN ALLOWING TO DELETE WHILE BANKS EXIST = RESULTS IN WRONG SAMPLE DELETION. Object linking the most important update.
 - UPDATE 2025 May 2nd on A4000 panel: Added funtionality. Updatable program list with full names.
 - UPDATE 2025 May 2nd on A4000 panel: Added Multi Part Selections.
+- UPDATE 2025 May 3nd on A4000 panel: Finally got working FULL sample dumping for short MONO samples (Stereo SDS might not be a thing at all). Try higher global MIDI delay for longer samples.
 
 "V-Verb Pro FULL.bpanelz" is also a work in process as it only receives few first engine A model modulators fully from the sysex-dump.
 - 2024 20th April FIXED file handling bugs and removed PC hanging os.time function.
