@@ -62,6 +62,7 @@ The EX5/7 parameter sysex bug made some difficulties in making the panel, but it
 - UPDATE 2025 May 5th on AX000 panel: FX sections for A5000 and selection for the model A4000 or A5000. Ah yes, and ONLY 4 first Effects have proper limits and values set. So, still work to be done =D
 - UPDATE 2025 May 13th on AX000 panel: Unlucky day, maybe. For A3000 users. Added model to requests. Button makros should be disabled when A3k selected != Unknown results. A3000 FX undone. 4 first FX might be the same for all.
 - UPDATE 2025 May 14th on AX000 panel: Minor bug fixes on knobs etc.
+- UPDATE 2025 May 15th on AX000 panel: Non-funtional FX selection working now. Trying to fix Program selection issues. No links.
 
 "V-Verb Pro FULL.bpanelz" is also a work in process as it only receives few first engine A model modulators fully from the sysex-dump.
 - 2024 20th April FIXED file handling bugs and removed PC hanging os.time function.
