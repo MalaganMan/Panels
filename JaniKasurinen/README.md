@@ -66,6 +66,7 @@ The EX5/7 parameter sysex bug made some difficulties in making the panel, but it
 - UPDATE 2025 May 15th#2 on AX000 panel: Wave Data flag added for Stereo samples to work in midi dump. VST indexes still messed up.
 - UPDATE 2025 May 16th on AX000 panel: When saving full program, program number in form "Pgm 001" is added to the name in dialog.
 - UPDATE 2025 May 18th on AX000 panel: Selection for only fetching program names while changing the program.
+- UPDATE 2025 May 19th on AX000 panel: VST indexes corrected. Styling and some small bugs fixes. (And new created =)
 
 "V-Verb Pro FULL.bpanelz" is also a work in process as it only receives few first engine A model modulators fully from the sysex-dump.
 - 2024 20th April FIXED file handling bugs and removed PC hanging os.time function.
