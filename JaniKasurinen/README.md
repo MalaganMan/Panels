@@ -70,6 +70,7 @@ The EX5/7 parameter sysex bug made some difficulties in making the panel, but it
 - UPDATE 2025 May 23th on AX000 panel: Sequence LUA code is now only for small under 8192 dumps. Haven't got a proper way in this panel to get and send dumps, so external application is adviced for dumping and receiving sequences to and from the sampler. Sample level and outputs added. (Were bare minimum for any use of this panel =D
 - UPDATE 2025 May 25th on AX000 panel: Some parameters for Program added. Program LFO settings and control settings. Removed annoying extra program selector.
 - UPDATE 2025 May 26th on AX000 panel: Added proper logic when adding samples to program OR to a bank.
+- UPDATE 2025 May 28th on AX000 panel: Visual styling and bug fixes.
 
 "V-Verb Pro FULL.bpanelz" is also a work in process as it only receives few first engine A model modulators fully from the sysex-dump.
 - 2024 20th April FIXED file handling bugs and removed PC hanging os.time function.
