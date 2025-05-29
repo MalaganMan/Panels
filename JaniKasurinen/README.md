@@ -74,6 +74,7 @@ The EX5/7 parameter sysex bug made some difficulties in making the panel, but it
 - UPDATE 2025 May 28th#2 on AX000 panel: Current "Alles ok version."
 - UPDATE 2025 May 29thon AX000 panel: Lost buttons for Full Program dumps restored and added buttons also for Full Sample Banks.
 - UPDATE 2025 May 29thon#2 AX000 panel: Disabling wave/loop controls before selecting a sample!!!!
+- UPDATE 2025 May 29thon#3 AX000 panel: Disabled any logic in wave/loop control settings. Can now go illegal, but at least works without hickups.
 
 "V-Verb Pro FULL.bpanelz" is also a work in process as it only receives few first engine A model modulators fully from the sysex-dump.
 - 2024 20th April FIXED file handling bugs and removed PC hanging os.time function.
