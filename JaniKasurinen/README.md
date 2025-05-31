@@ -76,6 +76,7 @@ The EX5/7 parameter sysex bug made some difficulties in making the panel, but it
 - UPDATE 2025 May 29thon#2 AX000 panel: Disabling wave/loop controls before selecting a sample!!!!
 - UPDATE 2025 May 29thon#3 AX000 panel: Disabled any logic in wave/loop control settings. Can now go illegal, but at least works without hickups.
 - UPDATE 2025 May 30th AX000 panel: Hopefully the last major bug fixes this spring before summer to this panel. Now MIDI OUT remains OFF while getting all the modulators. Safer this way. No more edited sample parameters while getting the values to the panel.
+- UPDATE 2025 May 31th AX000 panel: Corrected sample makros (Tree has different sorting than main screen, you know =). Added adjustment for know and button delays. Please keep them high enough = 300 ms and 1000 ms?? Added code for getting all the program names with a single button.
 
 "V-Verb Pro FULL.bpanelz" is also a work in process as it only receives few first engine A model modulators fully from the sysex-dump.
 - 2024 20th April FIXED file handling bugs and removed PC hanging os.time function.
