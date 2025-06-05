@@ -79,6 +79,7 @@ The EX5/7 parameter sysex bug made some difficulties in making the panel, but it
 - UPDATE 2025 May 31th AX000 panel: Corrected sample makros (Tree has different sorting than main screen, you know =). Added adjustment for know and button delays. Please keep them high enough = 300 ms and 1000 ms?? Added code for getting all the program names with a single button.
 - UPDATE 2025 June 2nd AX000 panel: MAJOR BUG FIXED. 1 "End" in wrong place in the "mididatareceived" function. Loop length got messed up.
 - UPDATE 2025 June 2nd Afternoon AX000 panel: MAJOR BUG FIXED. Button and knob delays had to initialized.
+- UPDATE 2025 June 5th AX000 panel: More perfect sample linking logic. (Hide, unhide)
 
 "V-Verb Pro FULL.bpanelz" is also a work in process as it only receives few first engine A model modulators fully from the sysex-dump.
 - 2024 20th April FIXED file handling bugs and removed PC hanging os.time function.
