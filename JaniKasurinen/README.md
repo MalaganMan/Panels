@@ -157,6 +157,7 @@ This is probably pretty final stage for this editor for now.
 - 2024 September 8th #2: Some final tweaks and putting some VST indexes in order for modulators and especially for the arpeggio length so that I can play with it =).
 Most VST indexes are still just random numbers and not in any order.
 - 2025 April 18th: Updated the outlook and info texts.
+- 2025 July 3rd: Moved blue "Edit Buffer Send" -button to patch group for better usability. Changed color of incremental patch saving to orange.
 
 Korg Prophecy and Z1 panels are done from basis of this panel: https://ctrlr.org/710/ done by person with signature "jms" on CTRLR.ORG
 A huge thank for the initial work done back in 2013 =)!
