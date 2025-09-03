@@ -82,6 +82,7 @@ The EX5/7 parameter sysex bug made some difficulties in making the panel, but it
 - UPDATE 2025 June 5th AX000 panel: More perfect sample linking logic. (Hide, unhide)
 - UPDATE 2025 June 18th AX000 panel: Enabled MIDI OUT ON on effect change to make it more user friendly. Might cause issues thou, but will see.
 - UPDATE 2025 September 3rd AX000 panel: 15 first Effects (to LOFI) with proper value display. Major formatting. Full Program, Bank and Sample dump receiving, saving and loading should work for tiny = floppy?? samples.
+- UPDATE 2025 September 3rd#2 AX000 panel: Sample and Sample Bank Renaming now possible with a button makro. Use with care to avoid any harm!
 
 "V-Verb Pro FULL.bpanelz" is also a work in process as it only receives few first engine A model modulators fully from the sysex-dump.
 - 2024 20th April FIXED file handling bugs and removed PC hanging os.time function.
