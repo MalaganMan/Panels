@@ -86,6 +86,7 @@ The EX5/7 parameter sysex bug made some difficulties in making the panel, but it
 - UPDATE 2025 September 8th AX000 panel: Sample and Sample Bank Renaming with a button makro now faster. Use with care to avoid any harm! 18 first Effects has proper values.
 - UPDATE 2025 September 10th AX000 panel: 25 first Effects has proper values.
 - UPDATE 2025 September 11th AX000 panel: 30 first Effects has proper values.
+- UPDATE 2025 September 14th AX000 panel: Added missing VST indexes back to buttons and knobs for use within DAWs for easy control and wishing them not to be pressed upon loading again. Corrected FX visible/VST names for the effect parameters in Effects 4 to 6 (A5000). 30 first Effects has proper values.
 
 "V-Verb Pro FULL.bpanelz" is also a work in process as it only receives few first engine A model modulators fully from the sysex-dump.
 - 2024 20th April FIXED file handling bugs and removed PC hanging os.time function.
