@@ -89,8 +89,9 @@ The EX5/7 parameter sysex bug made some difficulties in making the panel, but it
 - UPDATE 2025 September 14th AX000 panel: Added missing VST indexes back to buttons and knobs for use within DAWs for easy control and wishing them not to be pressed upon loading again. Corrected FX visible/VST names for the effect parameters in Effects 4 to 6 (A5000). 30 first Effects has proper values.
 - UPDATE 2025 September 18th AX000 panel: 54 first Effects have now proper values. Added Target Program & Target Sample buttons for faster switching between objects. Sends only the name of the object to the sampler. Organized a bit the buttons.
 - UPDATE 2025 September 21st AX000 panel: Modified loop controls to be more free. Will cause most likely problems in the future, but is more functional now in real time controlling.
-- UPDATE 2025 September 22st AX000 panel: Added some copy paste buttons for samplepoints and keys and also 2 extra midi on/off buttons. Multipliers in sample controls are now calculated to a whole number accuracy.
-- UPDATE 2025 September 25st AX000 panel: All 96 Effects have now proper limits and values.
+- UPDATE 2025 September 22nd AX000 panel: Added some copy paste buttons for samplepoints and keys and also 2 extra midi on/off buttons. Multipliers in sample controls are now calculated to a whole number accuracy.
+- UPDATE 2025 September 25th AX000 panel: All 96 Effects have now proper limits and values.
+- UPDATE 2025 September 26th AX000 panel: Created a flag to trigger targeting functions for easier editing of samples and programs alternatively.
 
 "V-Verb Pro FULL.bpanelz" is also a work in process as it only receives few first engine A model modulators fully from the sysex-dump.
 - 2024 20th April FIXED file handling bugs and removed PC hanging os.time function.
