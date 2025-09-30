@@ -94,6 +94,7 @@ The EX5/7 parameter sysex bug made some difficulties in making the panel, but it
 - UPDATE 2025 September 26th AX000 panel: Created a flag to trigger targeting functions for easier editing of samples and programs alternatively.
 - UPDATE 2025 September 28th AX000 panel: There was a bug in FX_Table checking which halted LUA execution when it have not been created. Should work now.
 - UPDATE 2025 September 28th#2 AX000 panel: 1 bug in channel -> multi function fixed and formatted EFFECT sections.
+- UPDATE 2025 September 30th AX000 panel: 1 bug in channel -> multi function fixed. Added 4 sample parameters and CC and aftertouch controls for the full sample range. (Large jumps are unavoidable)
 
 "V-Verb Pro FULL.bpanelz" is also a work in process as it only receives few first engine A model modulators fully from the sysex-dump.
 - 2024 20th April FIXED file handling bugs and removed PC hanging os.time function.
