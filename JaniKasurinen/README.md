@@ -99,6 +99,7 @@ The EX5/7 parameter sysex bug made some difficulties in making the panel, but it
 - UPDATE 2025 October 17th AX000 panel: Removed or modified non-funtional request makro buttons. A5000 effects bug fix. Added more sample parameters. Trying to make wavedata display.
 - UPDATE 2025 October 18th AX000 panel: Full Program and Sample parameters.
 - UPDATE 2025 October 20th AX000 panel: System parameters added. Finalized version. Must still have some bugs thou and room for improvement later.
+- UPDATE 2025 October 22th AX000 panel: Added delay for sysex dump sending for make it work better. Bugs killed. Visual tweaks done.
 
 "V-Verb Pro FULL.bpanelz" is also a work in process as it only receives few first engine A model modulators fully from the sysex-dump.
 - 2024 20th April FIXED file handling bugs and removed PC hanging os.time function.
