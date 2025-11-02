@@ -102,8 +102,8 @@ The EX5/7 parameter sysex bug made some difficulties in making the panel, but it
 - UPDATE 2025 October 20th AX000 panel: System parameters added. Finalized version. Must still have some bugs thou and room for improvement later.
 - UPDATE 2025 October 22th AX000 panel: Added delay for sysex dump sending for make it work better. Bugs killed. Visual tweaks done.
 - UPDATE 2025 October 25th AX000 panel: Program LFO Stepwave waveforms fixed. Input parameters emptied before each request.
-- UPDATE 2025 November 2nd AX000 panel: Added SineAdd & SineFM waveforms to Stepwave list. (They are surely sort of, NOT accurate Additive nor FM) 
- 
+- UPDATE 2025 November 2nd AX000 panel: Added SineAdd & SineFM waveforms to Stepwave list. (They are surely sort of, NOT accurate Additive nor FM). Steps have now keys to guide in full range of 63
+
 "V-Verb Pro FULL.bpanelz" is also a work in process as it only receives few first engine A model modulators fully from the sysex-dump.
 - 2024 20th April FIXED file handling bugs and removed PC hanging os.time function.
 - 2024 11th August: Second/lower OK/TAP button fixed. Unneccery code disabled in set combich function. Setting panel midi channel should be enough for panel buttons to work.
