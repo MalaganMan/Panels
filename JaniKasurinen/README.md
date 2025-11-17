@@ -106,6 +106,7 @@ The EX5/7 parameter sysex bug made some difficulties in making the panel, but it
 - UPDATE 2025 November 2nd AX000 panel: Added SineAdd & SineFM waveforms to Stepwave list. (They are surely sort of, NOT accurate Additive nor FM). Steps have now keys to guide in full range of 63
 - UPDATE 2025 November 4th AX000 panel: Key Lock and step slider added to Program LFO
 - UPDATE 2025 November 16th AX000 panel: Sample Bank editing added. Tweaks and bug fixes. New macros. USE WITH CARE. MAKE BACKUPS FIRST.
+- UPDATE 2025 November 17th AX000 panel: Major bug in PGM LFO SAWs fixed. Major bugs in SampleBank- and Sampleparameter functions corrected. They triggered a mass of objectlist requests with emptylists.
 
 "V-Verb Pro FULL.bpanelz" is also a work in process as it only receives few first engine A model modulators fully from the sysex-dump.
 - 2024 20th April FIXED file handling bugs and removed PC hanging os.time function.
