@@ -1,5 +1,5 @@
 "Korg Prophecy Editor.bpanelz"
-- BACKUP ALL YOUR PROPHECY VOICES AND SETTINGS BEFORE USING THIS PANEL!
+- BACKUP ALL YOUR PROPHECY VOICES, PATTERNS!!! AND SETTINGS BEFORE USING THIS PANEL!
 - 2024 May 6th: Bug fixed in "Load Patch to Edit Buffer"'s function which caused it to send patch from midi buffer even if no file was loaded = canceled the loading.
 - 2024 May 7th: Minor formatting and more modulators fetched from patch midi dump.
 - 2024 May 7th: Modulation OSC fixed. Formatting. Few more modulators called from patch dump.
