@@ -1,0 +1,27 @@
+"Korg Z1 Editor.bpanelz" is still greatly work in process stage and does NOT have all the modulators, but file loading saving and storing functions fully.
+- BACKUP ALL YOUR Z1 VOICES AND SETTINGS BEFORE USING THIS PANEL!
+- 2024 May 6th: Bug fixed in "Load Patch to Edit Buffer"'s function which caused it to send patch from midi buffer even if no file was loaded = canceled the loading.
+- VPM added to OSC1 and OSC2
+- UPDATE 2024 MAY 28th: Buggy last version remade and fixed minor older bugs.
+- UPDATE 2024 JUNE 3th: Oscillator modulators until "Sync" done.
+- UPDATE 2024 JUNE 4th: Organ Model added.
+- UPDATE 2024 JUNE 5th: Electric Piano and Brass Model added.
+- UPDATE 2024 JUNE 6th: FIXED ALL BYTE VALUES IN MODULATORS WHICH WERE TOTALLY MISSING.
+- UPDATE 2024 JUNE 9th: All Oscillator modulators done one directional.
+- UPDATE 2024 JUNE 11th: Fixed back 6th of June mistake with modulator values and functionalized patch changes to work bidirectionally and removed linking that to save slot.
+- UPDATE 2024 JUNE 23th: Finished FX and sysex without Multipart handling.
+- UPDATE 2024 JUNE 24th: Sysex for Multipart and MIDI settings(Uncomplete!).
+This is probably pretty final stage for this editor for now.
+- Was not =) UPDATE 2024 JUNE 27th: Grouped the functions and removed the unneccery ones. Fixed some bugs. Multi and Midi sysex are still missing correct sizes and thus not function fully.
+- UPDATE 2024 JUNE 28th: Bug fixing and new 'Dump byte calculator' added to aid in understanding the bulk dump.
+- 2024 10th July: Sysex bug fix and removed unfuntional Mono SW.
+- 2024 17th July: Performance Editor added.
+- 2024 July 26th: Arpeggio Editor added, minor updates and bug fixes. Last page of arp this not linked to notes.
+- 2024 July 27th: Arpeggio Editor added, minor updates and bug fixes. All Notes linked to last arp tabs matrix.
+- 2024 August 1st: Arpeggio Editor fixed (not fully propbably) and some other advance done.
+- 2024 August 5th: Arpeggio Editor fixed (fully propbably).
+- 2024 August 6th: Tested and Pitch offset % removed from Arp values.
+- 2024 August 8th: Arpeggio editors VST exports removed and all modulators in there also muted on start.
+- 2024 August 26th: Sysex hexes have been manually lined up to text boxes to avoid misalignment with numbers for columns.
+- 2024 August 27th: Added midi off switch to prevent sysex sending in start of the panel.
+- 2025 April 20th: Bug fixes and lots of visual tweaking.
