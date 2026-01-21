@@ -1,0 +1,128 @@
+001:Sq:Equi 1998   
+002:Sq:RoboTribeAT 
+003:Sq:Sync Echo   
+004:Sq:Zambeezi    
+005:Ba:BasslineA   
+006:Ba:BasslineB   
+007:Ba:Dry Syn     
+008:Ba:Hardsequence
+009:Ba:StrobeBass A
+010:Ba:AnaSweep    
+011:Ba:Bwacka Bass 
+012:Ba:Talkin` Bass
+013:Ba:Hardstep    
+014:Ba:SH Acid     
+015:Ba:Sub Bass    
+016:Ba:Massive FM  
+017:Ba:Mean Bass   
+018:Ba:Lately Bass 
+019:Ba:Speed       
+020:Ba:Kangaroo    
+021:Ba:Plastic Box 
+022:Ba:Tosser      
+023:Ba:Wave Bass   
+024:Ba:Velo Sub    
+025:Ba:Mondoloid   
+026:Ba:Hollow Bass 
+027:Ba:Techline AN 
+028:Ba:3 Pole Reso 
+029:Ld:Slipmat     
+030:Ld:Fusion Tekk 
+031:Ld:Minor Syn   
+032:Ld:Fat Hook    
+033:Ld:Chemistry   
+034:Ld:Rap Whistle 
+035:Ld:Rottersclub 
+036:Ld:Sync Lead 2 
+037:Ld:Talk Mod    
+038:Ld:Mean Lead   
+039:Ld:Trippy      
+040:Ld:Acid Saw    
+041:Ld:CompuTech   
+042:Ld:Organic     
+043:Ld:HPF Attack  
+044:Ld:Sync Lead 3 
+045:Ld:Thor        
+046:Ld:PointySquare
+047:Ld:VocoLoco    
+048:Ld:StrayCat    
+049:Pd:Vortex      
+050:Pd:Ghosts      
+051:Pd:Oasis       
+052:Pd:JeanMichel  
+053:Pd:Big Wave    
+054:Pd:LunaPad MW  
+055:Pd:Vapor       
+056:Pd:Paddalicious
+057:Pd:Smoke Pad   
+058:Pd:Stalactite  
+059:Pd:VariPad     
+060:Pd:FlangOrg    
+061:Pd:Deep Blue   
+062:Pd:Sky Organ   
+063:Pd:ComeOnHigh  
+064:Pd:BitterSweet 
+065:Fx:RhythmWheels
+066:Fx:Ribbon Slide
+067:Fx:Quickening  
+068:Fx:Hollow      
+069:Fx:StarDust    
+070:Fx:Nirvana     
+071:Fx:Moebius     
+072:Fx:StarDrive   
+073:Fx:AstralMonkey
+074:Se:Broken Arp  
+075:Se:Geiger Count
+076:Se:Roswell     
+077:Se:Huge Machine
+078:Se:Circular    
+079:Se:Millenium   
+080:Se:Se7en Hit   
+081:Se:Down Spiral 
+082:Se:Ectoplasm   
+083:Se:Whistlewind 
+084:Se:Alien Rain  
+085:Se:Bent Metal  
+086:Se:FM Waves    
+087:Se:Nusic       
+088:Se:Creature    
+089:Se:Talk2much   
+090:Se:Radiophonik 
+091:Se:BodyElectric
+092:Se:Trancer     
+093:Se:Drumnotized 
+094:Se:Eraserhead  
+095:Se:Juju Temple 
+096:Se:DarkSide    
+097:Se:What`s funy?
+098:Se:Generator   
+099:Se:Natives     
+100:Se:Texture#6 VS
+101:Se:FullChargeAT
+102:Se:Ai-ee-yi    
+103:Sc:Moving      
+104:Sc:Road Rage   
+105:Sc:FutaFunk    
+106:Sc:Insomnia    
+107:Sc:Flang Saw   
+108:Sc:Flux        
+109:Sc:SynchroChoir
+110:Pf:Echo Roads  
+111:Pf:Inkognito   
+112:Pf:Touch Drive 
+113:St:Neptune     
+114:St:Ministry    
+115:St:Phasensembl 
+116:St:No.9 Strings
+117:Or:Organ XYZ   
+118:Or:Union Jack  
+119:Br:House       
+120:Br:CS80 Brass  
+121:Pi:Raspberry   
+122:Sq:Tai-koh     
+123:Pc:RM Bellz    
+124:Pc:Tornado BD  
+125:Co:ViaArpeggia 
+126:Dr:Alien Kit   
+127:Dr:FX Kit      
+128:Dr:Street Kit  
