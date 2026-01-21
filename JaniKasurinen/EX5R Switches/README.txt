@@ -1,0 +1,22 @@
+"EX5R Switches.bpanelz" is propably at stage of final version, but I might in future add some editing functions there.
+The EX5/7 parameter sysex bug made some difficulties in making the panel, but it is actually in case of this hardware pretty useless sysex-implementation after all and new implementation has even removed parameter request totally from it's documentation.
+- UPDATE: Added one more save button which also after saving, automatically advances to the next patch.
+- UPDATE 2024 September 12th: Added some perhaps useful commands and removed unwanted VST indexes.
+- UPDATE 2024 September 13th: Added VL Element sysex handling and saving.
+- UPDATE 2024 September 13th#2: Added VL Element sysex handling and saving functionality and made other improvements.
+- UPDATE 2024 September 16th: Non-existing variable bug remedied.
+- UPDATE 2024 September 27th: Features added and MIDI OFF after each dump receive.
+- UPDATE 2024 September 28th: Features added.
+- UPDATE 2024 September 29th: Propably final features added. Full preset and internal voice lists created and enabled for creation with switch.
+- UPDATE 2024 September 30th: Saving and loading voice lists for Internal Banks.
+- UPDATE 2024 October 1st: Bug fixes and styling.
+- PLEASE, save your full EX5R always before using this panel. Had already done some messing with voices while sysex dumping with this panels development.
+- Device ID is still mostly fixed on 1 with most dumps, but will correct that later. Check sum editing causes some trouble there.
+- UPDATE 2024 October 2st: Device_ID now changed for sysex dumps and checked on receive to match. Confusion still possible with MIDI out and in channels. Uploaded text files of preset and internal banks for EX5R named Preset Bank 1/2 and Internal Bank 1/2.txt
+- UPDATE 2024 October 3st: Bug fixes and styling.
+- UPDATE 2024 October 4st: Managed to get also the User VL Element name list saving and loading working. When changing voice type there is still a bug that makes asking current voice dump several times necessary to get the right bank and sample to show up in the first element. No more need for extra text boxes after correcting save funtions length call for the text.
+- UPDATE 2024 October 6th: Minor updates/finishing current modulator returns.
+- UPDATE 2024 October 8th: Oh yes, I could not at this moment figure out how to else prevent lua code from using non existent variable than making them exist with that little "Request 1st Preset" button. So please, keep that on while closing the panel or use it at the beginning always, but disable it later.
+- UPDATE 2025 January 23rd: Both PATCH and PERFORMANCE change main selections work now with enabling midi out ON.
+- UPDATE 2025 October 30th: Green Display texture for clarity. Added instruction to get first preset before any other dumps will work. Solved LUA -bug.
+- UPDATE 2025 November 6th: Bug fixes and visual tweaks.
