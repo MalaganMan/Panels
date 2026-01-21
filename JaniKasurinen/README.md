@@ -1,4 +1,5 @@
-Korg Prophecy and Z1 panels are done from basis of this panel: https://ctrlr.org/710/ done by person with signature "jms" on CTRLR.ORG
+Korg Prophecy and Z1 panels are done from basis of panel done by person with signature "jms" on CTRLR.ORG
+
 A huge thank for the initial work done back in 2013 =)!
 
 "Waldorf Blofeld Patch Renamer.bpanelz"
