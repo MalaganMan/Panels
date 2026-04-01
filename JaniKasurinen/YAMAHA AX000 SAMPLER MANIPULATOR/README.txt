@@ -82,3 +82,4 @@
 - UPDATE 2025 November 20th AX000 panel: Removed MidiON functions. Added toggle for MidiOFF disable funtionality for faster editing.
 - UPDATE 2026 January 16th AX000 panel: 1 bug fixed 1 lua function.
 - UPDATE 2026 February 19th AX000 panel: Button label "Off disable" changed to "Automatic MIDI OUT OFF Disable"
+- UPDATE 2026 April 1st AX000 panel: Names for saving FULL SAMPLE, BANK and PROGRAM are taken from the correct text box below each function.
