@@ -83,3 +83,4 @@
 - UPDATE 2026 January 16th AX000 panel: 1 bug fixed 1 lua function.
 - UPDATE 2026 February 19th AX000 panel: Button label "Off disable" changed to "Automatic MIDI OUT OFF Disable"
 - UPDATE 2026 April 1st AX000 panel: Names for saving FULL SAMPLE, BANK and PROGRAM are taken from the correct text box below each function.
+- UPDATE 2026 April 2st AX000 panel: One misplaced checkbox returned to the correct tab in Sample Bank.
