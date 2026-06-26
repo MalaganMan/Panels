@@ -24,3 +24,6 @@
 - 2024 16th November: Simplified version utilizing mainly the V-Verb's screendump function.
 - 2024 17th November: Fixed the Edit Buffer sysex to modify only device id and nothing else when loading.
 - 2026 13th February: Now should fetch Combi number from Edit Buffer dump. Fully reformatted the arrangement of panel.
+
+"V-Verb Pro REV2496 NRPN"
+- Added this tiny NRPN panel which should allow all 245 different NRPN values until maximum of 600 to be edited.
