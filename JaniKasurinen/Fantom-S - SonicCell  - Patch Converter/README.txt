@@ -12,3 +12,4 @@
 - 2026 June 26th: Bug crashing the panel fixed on "Save.." and "Send.." buttons when sysex boxes are empty.
 - 2026 June 29th: Added Performance requests and saving. Loading done with same buttons as patches. Bug fixes.
 - 2026 June 30th: Added features, modified quide texes and formatting for easier usage.
+- 2026 July 7th: Tick marks visible again after saving the panel with CtrlrX.org version.
