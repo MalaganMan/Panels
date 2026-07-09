@@ -13,3 +13,4 @@
 - 2026 June 29th: Added Performance requests and saving. Loading done with same buttons as patches. Bug fixes.
 - 2026 June 30th: Added features, modified quide texes and formatting for easier usage.
 - 2026 July 7th: Tick marks visible again after saving the panel with CtrlrX.org version.
+- 2026 July 9th: Complete reface and some External Input parameters added. Setup & System Reques, Save and Load added.
