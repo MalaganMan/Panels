@@ -15,3 +15,4 @@
 - 2026 July 7th: Tick marks visible again after saving the panel with CtrlrX.org version.
 - 2026 July 9th: Complete reface and some External Input parameters added. Setup & System Reques, Save and Load added.
 - 2026 July 10th: Bugs in Mididatareceive function of non-existing variables fixed. MIDI OUT button remade.
+- 2026 July 11th: Temporaty Request, Save and Load added. Reface of positioning of groups and buttons.
