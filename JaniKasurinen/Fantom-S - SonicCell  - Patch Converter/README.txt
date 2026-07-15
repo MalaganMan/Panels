@@ -17,3 +17,4 @@
 - 2026 July 10th: Bugs in Mididatareceive function of non-existing variables fixed. MIDI OUT button remade.
 - 2026 July 11th: Temporaty Request, Save and Load added. Reface of positioning of groups and buttons.
 - 2026 July 12th: Temporaty Load -function had wrong ID 10 = Hx0A instead of 16 = Hx10 and made it inoperable.
+- 2026 July 15th: Temporaty Request has been streamlined to go without any delays. Will cause problems if simultaneous dump from in example Editors are asked. Based on flags of requested parts in sequence. Every device can now also Save and Load Rhythms.
