@@ -21,3 +21,4 @@
 - 2026 July 16th: Temporary Rhythm memory blocks are now intialized also when asking whole Temporary. MC-909 had never before MC909_Rhythm intialized, so it didn't work before. Rhythm memoryblock size is checked more accurately before saving to avoid problems.
 - 2026 July 18th: All Temporary buffers can now be requested, saved and load. Can also select to request only Performance and Patches. "SEND" - now sends edited hex with calcutated checksums.
 - 2026 July 18th 22:14 A Clock: Now it actually works with proper checksums.
+- 2026 July 19th: Arpeggio has no more double Commons in Fantom and MC-909 sysex.
