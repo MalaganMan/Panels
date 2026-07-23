@@ -23,4 +23,4 @@
 - 2026 July 18th 22:14 A Clock: Now it actually works with proper checksums.
 - 2026 July 19th: Arpeggio has no more double Commons in Fantom and MC-909 sysex.
 - 2026 July 21st: Scale Tune and part of System Common added.
-- 2026 July 23th: Master Tuning added. Scale Tune tab reshaped and color coded.
+- 2026 July 23th: Master Tuning added. Scale Tune tab reshaped and color coded. "Rotate Key" - function added to play with and for myself to learn usage of timers.
