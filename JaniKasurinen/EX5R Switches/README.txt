@@ -20,3 +20,4 @@ The EX5/7 parameter sysex bug made some difficulties in making the panel, but it
 - UPDATE 2025 January 23rd: Both PATCH and PERFORMANCE change main selections work now with enabling midi out ON.
 - UPDATE 2025 October 30th: Green Display texture for clarity. Added instruction to get first preset before any other dumps will work. Solved LUA -bug.
 - UPDATE 2025 November 6th: Bug fixes and visual tweaks.
+- UPDATE 2026 July 27th: Bug fixes and some VL Parameters to play with.
