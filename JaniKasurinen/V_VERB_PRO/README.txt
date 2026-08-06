@@ -18,6 +18,7 @@
 - 2024 10th December#2: More tweaks to requests of engines and combi returns. Now only combi return will change some parameters. Still figuring out the best solution for returns.
 - 2024 11th December: Ok, requests are only sysex requests. No messing around with paramaters there now. Some manual labour required to get the names of engines, but at least you can trust them to be right after doing so.
 - MERRY XMAS 2024 TO EVERYONE!!!!
+- 2026 6th August: Syntax for MidiChannels made compatible with CtrlrX.org
 
 "V-Verb Pro Panel Only.bpanelz"
 - Necessary font 'ZXSpectrumJJK.ttf' for the Screendump suplied here also.
