@@ -19,6 +19,7 @@
 - 2024 11th December: Ok, requests are only sysex requests. No messing around with paramaters there now. Some manual labour required to get the names of engines, but at least you can trust them to be right after doing so.
 - MERRY XMAS 2024 TO EVERYONE!!!!
 - 2026 6th August: Syntax for MidiChannels made compatible with CtrlrX.org
+- 2026 7th August: File Loading should now work after correcting syntax for CtrlrX.org
 
 "V-Verb Pro Panel Only.bpanelz"
 - Necessary font 'ZXSpectrumJJK.ttf' for the Screendump suplied here also.
