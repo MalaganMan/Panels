@@ -24,3 +24,4 @@ The EX5/7 parameter sysex bug made some difficulties in making the panel, but it
 - UPDATE 2026 July 28th: Full Control Matrix added. Except Vel(VL) On/Off edit, only read.
 - UPDATE 2026 July 30th: Scene Temp Edit added.
 - UPDATE 2026 August 4th: Soft Scene Memory added. Many VL paramters added out-directional. Dynamic Filter has also return values from VL dump.
+- UPDATE 2026 August 9th: Insert FX 2 until Auto Pan works outside now. Loading should work with CtrlrX.org Uninitalized variable crashing panel fixed.
