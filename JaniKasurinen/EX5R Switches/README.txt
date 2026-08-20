@@ -27,3 +27,4 @@ The EX5/7 parameter sysex bug made some difficulties in making the panel, but it
 - UPDATE 2026 August 9th: Insert FX 2 until Auto Pan works outside now. Loading should work with CtrlrX.org Uninitalized variable crashing panel fixed. VST Problem fixed leaving FX_table to be created by button. SCENE ON -button added.
 - UPDATE 2026 August 12th: All Effects work to outside in Patch mode. Only Insert FX1 24:3 Band EQ works both ways yet.
 - UPDATE 2026 August 14th: Insert FX1 22-24: works both ways. VST indexes ordered. VST names for Effects fixed.
+- UPDATE 2026 August 20th: Insert FX1 works both ways with some oddities thou.
