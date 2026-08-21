@@ -28,3 +28,4 @@ The EX5/7 parameter sysex bug made some difficulties in making the panel, but it
 - UPDATE 2026 August 12th: All Effects work to outside in Patch mode. Only Insert FX1 24:3 Band EQ works both ways yet.
 - UPDATE 2026 August 14th: Insert FX1 22-24: works both ways. VST indexes ordered. VST names for Effects fixed.
 - UPDATE 2026 August 20th: Insert FX1 works both ways with some oddities thou.
+- UPDATE 2026 August 21th: Reverb 9-12 space dimensions corrected to 0.5-30.2m in all directions. Chorus Delay L,R time limits corrected to 743.0ms. Reverb, Chorus and Effect 1 now works both ways.
