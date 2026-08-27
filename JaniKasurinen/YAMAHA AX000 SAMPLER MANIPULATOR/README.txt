@@ -87,3 +87,4 @@
 - UPDATE 2026 April 2nd AX000 panel: One bug fixed in Program LFO functions crashing the panel. Reduntant panel version removed from here.
 - UPDATE 2026 July 24th AX000 panel: SDS Dumps are now made with button macros also for the correct sample to be dumped.
 - UPDATE 2026 August 7th AX000 panel: File Loading should now work after correcting syntax for CtrlrX.org
+- UPDATE 2026 August 27th AX000 panel: CC Control Number has no more CC to mess it up.
