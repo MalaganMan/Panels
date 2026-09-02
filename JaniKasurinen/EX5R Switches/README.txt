@@ -30,3 +30,4 @@ The EX5/7 parameter sysex bug made some difficulties in making the panel, but it
 - UPDATE 2026 August 20th: Insert FX1 works both ways with some oddities thou.
 - UPDATE 2026 August 21th: Reverb 9-12 space dimensions corrected to 0.5-30.2m in all directions. Chorus Delay L,R time limits corrected to 743.0ms. Reverb, Chorus and Effect 1 now works both ways.
 - UPDATE 2026 September 1st: All Effects functioning both ways.
+- UPDATE 2026 September 2nd: FDSP Type fetched. Added second value to buttons for CtrlrX.org to work with them.
