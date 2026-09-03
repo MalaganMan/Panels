@@ -31,3 +31,4 @@ The EX5/7 parameter sysex bug made some difficulties in making the panel, but it
 - UPDATE 2026 August 21th: Reverb 9-12 space dimensions corrected to 0.5-30.2m in all directions. Chorus Delay L,R time limits corrected to 743.0ms. Reverb, Chorus and Effect 1 now works both ways.
 - UPDATE 2026 September 1st: All Effects functioning both ways.
 - UPDATE 2026 September 2nd: FDSP Type fetched. Added second value to buttons for CtrlrX.org to work with them.
+- UPDATE 2026 September 3rd: FDSP enabled, disabled and Insertion Effect selection in FDSP working towards PC now. Insertion Effect must be selected from device for the Element, if FDSP is on for the Element.
