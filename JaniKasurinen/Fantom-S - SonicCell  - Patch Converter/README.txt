@@ -26,3 +26,4 @@
 - 2026 July 23th: Master Tuning added. Scale Tune tab reshaped and color coded. "Rotate Key" - function added to play with and for myself to learn usage of timers.
 - 2026 November 9th: Fantom-S/XR Performance receive bytes fixed to match implementation without unnecessary tight condititions.
 - 2026 November 17th: Fantom-S/XR Performance write confirm caused panel to crash. Fixed by adding size to compare with received midi data.
+- 2026 November 19th: Added "nameTrim = nameTrim:gsub(":", "_")	-- Replace by" to replace ":" in save dialog to work with "_" in pc computers.
